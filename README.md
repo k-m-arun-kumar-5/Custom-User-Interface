@@ -1,17 +1,6 @@
 Description :
 =============
-I just shared my works, which I worked as learning path and practiced some C programming such as array, pointers, preprocessor, string, bit operations, data scope, dynamic memory, functions, structures, command line arguments, get input and display the output and variable arguments. In Data structures, some C Programs with Design and implementation of ordered and unordered Single Linked list, Double Linked List, Queue and Stack. 
-
-Projects, using C programing, are included with Design, development, implemented and tested, are as follows :
-=============================================================================================================
-1: Big number basic arithmetic calculator with operations of addition, subraction, division, multiplication and modulation.
-2: Employee's Record using EmpID based Double Linked List.
-3: Employee's Record using EmpID based Single Linked List.
-4: Determine the maximum number of Powerpuff Girls which will be created with the current quantity of ingredients.
-5: Calculate and display range of prime numbers.
-6: Implementation of scanf and printf function.
-7: Movement of elevator's car cabin controller.
-8: Diagonal Difference - Given a square matrix of size , calculate the absolute difference between the sums of its diagonals. 
+I just shared my works, which I worked as learning path and practiced some C programming such as implementation of scanf and printf function. 
 
 Purpose :
 =========
@@ -51,5 +40,3 @@ Kindly read in the source codes, if mentioned, about the Program Description or 
 Repository Web Link :
 =====================
 https://github.com/k-m-arun-kumar-5
-
-
