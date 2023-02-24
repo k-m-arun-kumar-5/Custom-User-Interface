@@ -10,9 +10,9 @@ Autography :
 ============
 I, K.M. Arun Kumar alias Arunkumar Murugeswaran, in the year 2003, graduated (B.E. in Electronics and Instrumentation Engineering (EIE) at Government College of Technology (GCT), Coimbatore, India), was a C developer, with 2 years of work experience (2003-2005) at a company, based in Chennai, India, as a network programmer (using C programming language), in a role of Software engineer in Design & Development Team, in domain of Remote Access Server (RAS) of module of Point to Point Protocol (PPP), Telnet and SS7. I resigned from that company, due to work stress that I was unable to bear, which affected my health and then treatment given by a doctor, which was not suitable for my health, worsen my health. After a rehabitation process in my health, thanks to my family, healthcare for recovery, myself, god and all those who directly or indirectly help and/or support me and my family, which helped me to recover my health. I again practiced and refresh C programming.
  
-I have a career break from 2005 - present. In 2018-2019, I also learned some Embedded C Programmming using AT89C51, PIC16F887, PIC18F4680 and LPC2138 to practice Embedded C programmming and searched for the job. But in vain, mainly due to my career break and my age. 
+I have a career break from 2005 - 2023. In 2018-2019, I also learned some Embedded C Programmming using AT89C51, PIC16F887, PIC18F4680 and LPC2138 to practice Embedded C programmming and searched for the job. But in vain, mainly due to my career break and my age. 
 
-Till present, I just shared my works that I used as the learning path and practiced, with designed, developed, implemented, simulated and tested, including some projects, assignments, documentations and all other related files. 
+I just shared my works that I used as the learning path and practiced, with designed, developed, implemented, simulated and tested, including some projects, assignments, documentations and all other related files. 
   
 My Thanks and Tribute :
 ========================
