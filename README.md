@@ -32,6 +32,7 @@ Some reference that I refered for C Application design and development, are as f
 2: Understanding and Using C Pointers: Core Techniques for Memory Management - Book authored by Richard M. Reese. 
 3: Data Structures: A Pseudocode Approach with C 2nd Edition, Book authored by Richard F. Gilberg and Behrouz A. Forouzan
 4: https://www.hackerrank.com/ - Hacker Rank - Coding assessments platform.
+5: https://www.hackerearth.com/ - Hacker Earth - Community for developers.
 
 
 Note :
